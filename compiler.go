@@ -2,9 +2,9 @@ package treelite
 
 // #cgo LDFLAGS: -ltreelite -ltreelite_runtime
 // #include <stdlib.h>
-// #include "treelite/c_api.h"
-// #include "treelite/c_api_common.h"
-// #include "treelite/c_api_runtime.h"
+// #include "treelite/include/treelite/c_api.h"
+// #include "treelite/include/treelite/c_api_common.h"
+// #include "treelite/include/treelite/c_api_runtime.h"
 import "C"
 import (
 	"encoding/json"
