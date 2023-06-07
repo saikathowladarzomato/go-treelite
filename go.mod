@@ -1,4 +1,4 @@
-module github.com/getumen/go-treelite
+module github.com/saikathowladarzomato/go-treelite
 
 go 1.18
 
