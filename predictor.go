@@ -1,6 +1,6 @@
 package treelite
 
-// #cgo LDFLAGS: -ltreelite -ltreelite_runtime
+
 // #include <stdlib.h>
 // #include "treelite/include/treelite/c_api.h"
 // #include "treelite/include/treelite/c_api_common.h"
