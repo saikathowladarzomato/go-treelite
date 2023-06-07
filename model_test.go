@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/getumen/go-treelite"
+	"github.com/saikathowladarzomato/go-treelite"
 )
 
 func TestModel_LoadXGBoostModel(t *testing.T) {

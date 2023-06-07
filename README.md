@@ -1,9 +1,9 @@
 # go-treelite: [TreeLite](https://github.com/dmlc/treelite) binding in Go
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/getumen/go-treelite)](https://goreportcard.com/report/github.com/getumen/go-treelite)
-[![CodeQL](https://github.com/getumen/go-treelite/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/getumen/go-treelite/actions/workflows/codeql-analysis.yml)
-[![Go](https://github.com/getumen/go-treelite/actions/workflows/go.yml/badge.svg)](https://github.com/getumen/go-treelite/actions/workflows/go.yml)
-[![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white)](https://pkg.go.dev/github.com/getumen/go-treelite)
+[![Go Report Card](https://goreportcard.com/badge/github.com/saikathowladarzomato/go-treelite)](https://goreportcard.com/report/github.com/saikathowladarzomato/go-treelite)
+[![CodeQL](https://github.com/saikathowladarzomato/go-treelite/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/saikathowladarzomato/go-treelite/actions/workflows/codeql-analysis.yml)
+[![Go](https://github.com/saikathowladarzomato/go-treelite/actions/workflows/go.yml/badge.svg)](https://github.com/saikathowladarzomato/go-treelite/actions/workflows/go.yml)
+[![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white)](https://pkg.go.dev/github.com/saikathowladarzomato/go-treelite)
 
 - [go-treelite: TreeLite binding in Go](#go-treelite-treelite-binding-in-go)
   - [Prerequirements](#prerequirements)
@@ -46,9 +46,9 @@ export LD_LIBRARY_PATH=/usr/local/lib${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH}
 Add this library to your project.
 
 ```bash
-go get github.com/getumen/go-treelite
+go get github.com/saikathowladarzomato/go-treelite
 ```
 
 ## Documentation
 
-The documentation is hosted at [here](https://pkg.go.dev/github.com/getumen/go-treelite). You can also take a look at [example_test.go](example_test.go).
+The documentation is hosted at [here](https://pkg.go.dev/github.com/saikathowladarzomato/go-treelite). You can also take a look at [example_test.go](example_test.go).

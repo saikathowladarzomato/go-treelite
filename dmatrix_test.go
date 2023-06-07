@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/getumen/go-treelite"
+	"github.com/saikathowladarzomato/go-treelite"
 	"github.com/stretchr/testify/assert"
 )
 
