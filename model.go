@@ -1,9 +1,9 @@
 package treelite
 
 // #include <stdlib.h>
-// #include "treelite/include/treelite/c_api.h"
-// #include "treelite/include/treelite/c_api_common.h"
-// #include "treelite/include/treelite/c_api_runtime.h"
+// #include "include/treelite/c_api.h"
+// #include "include/treelite/c_api_common.h"
+// #include "include/treelite/c_api_runtime.h"
 import "C"
 import (
 	"errors"
